@@ -165,7 +165,7 @@ NSC IA Z is at the cutting edge of HoloFi technology, providing a robust platfor
 
 <p>FOUNDER: LUCAS JANAURIO DO NASCIMENTO</p>
 
-<img src="A.PNG" alt="Hollow Ether Logo">
+<img src="B.PNG" alt="Hollow Ether Logo">
 
 ---
 
