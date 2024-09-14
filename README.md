@@ -1,6 +1,5 @@
-Claro! Aqui está o README atualizado substituindo todas as referências a "blockchain" por "HoloFi":
 
----
+
 
 ## 🌎 RubyX NSC IA Z 🌎 
 
