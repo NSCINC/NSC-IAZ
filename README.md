@@ -19,7 +19,6 @@
 - **Secure Transfers**: Efficient and secure transfer and verification of digital assets.
 - **Planetary Integration**: Advanced functionalities with a focus on Earth and Space integration.
 - **Quantum Computing**: Capabilities for hybrid digital asset creation and quantum computing integration.
-- **Enhanced by Horigami FX**: Advanced tokenization mechanics, security protocols, scalability, and interoperability.
 
 ### Prerequisites
 
