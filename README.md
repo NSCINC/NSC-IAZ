@@ -3,12 +3,9 @@
 
 ## 🌎 RubyX NSC IA Z 🌎 
 
-![RubyX](https://img.shields.io/badge/rubyX-%23CC342D.svg?style=for-the-badge&logo=rubyX&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![LUA](https://img.shields.io/badge/LUA-%23CC342D.svg?style=for-the-badge&logo=rubyX&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%232B2D37.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234F5B93.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![CMake](https://img.shields.io/badge/cmake-%23000000.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
